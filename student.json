@@ -1,0 +1,18 @@
+[
+  {
+    name: "deepanshu",
+    middleName: "singh",
+    lastName: "negi",
+    age: '18',
+    studentInfo: function (){
+      return (this.name + '\n' + this.middleName + '\n' + this.lastName)
+  },
+  {
+    name: "deep",
+    middleName: "singh",
+    lastName: "negi",
+    age: '20',
+    studentInfo: function (){
+      return (this.name + '\n' + this.middleName + '\n' + this.lastName)
+  }
+]
